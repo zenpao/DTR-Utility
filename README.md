@@ -14,20 +14,6 @@ Source codes and resources are by-product of intensive research and any familiar
 authors/owners.
 This product includes software developed by Microsoft.
 
-*****************VERSION HISTORY******************
-Build Version 1.0 - Released BETA version.
-Build Version 1.1 - Added "About" tab.
-Build Version 1.2 - Catched errors. 
-Build Version 1.3 - Reduced retry limit to 3.
-Build Version 1.4 - Fixed closing of references.
-Build Version 1.5 - Fixed refresh state.
-Build Version 1.6 - Fixed data duplication.
-Build Version 1.7 - Beautified the U.I.
-Build Version 1.8 - Included exporting to MS Excel.
-Build Version 1.9 - Added file path selection.
-Build Version 2.0 - Fixed MS Excel file format issue.
-************************************************************
-
 SIDE NOTE:
 Only run within the root folder e.g (C:\ , D:\, etc.).
 Do not place within root folder sub directories which asks special permissions e.g (Program Files, Program Files(x86), etc.).
