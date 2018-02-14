@@ -1,6 +1,6 @@
 # vbnet-DTR
 
-DTTS (Daily Time Tracking System)
+DTTS (Daily Time Record Utility)
 Build Version 2.0 Final
 
 Simplified DTR with minimal complexity for your timekeeping needs.
